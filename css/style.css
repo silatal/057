@@ -18,6 +18,11 @@ body {
     z-index: 1111;
     border: 1px solid blue;
 }
+.main-title {
+color: #563254;
+font-size: 60px;
+background-color: aqua;
+}
 
 .dropdown-item {
     font-size: 16px;
